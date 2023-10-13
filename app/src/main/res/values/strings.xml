@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Conecta41</string>
+    <string name="descripcion">consigue 4 fichas en linea para ganar; juegas por turnos con tu compañero </string>
+    <string name="titulo">Conecta 4</string>
 </resources>

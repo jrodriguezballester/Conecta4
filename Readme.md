@@ -24,3 +24,7 @@ Requisitos:
   * logica del juego: poner ficha, comprobar si gana, nuevo turno ...
   * logica restante: botones, reinicio, cuando gana ...
 
+### Commit ViewBinding
+
+Utilización de viewbinding para enlazar activity con el XML
+MainActivity y su XML en pañales
