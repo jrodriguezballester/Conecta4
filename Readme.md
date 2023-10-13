@@ -15,6 +15,12 @@ Requisitos:
 * Puedes añadirle todas las funcionalidades extra que consideres.
 
 ### Ideas 
-* Hacer todo en una activity
-* Hacer varias activities (instrucciones-juego-resultado)
+
+* Hacer una o varias activities?
+* No hacer menu
+* primera activity presentación o reglas del juego
+* segunda activity juego en si
+  * xml (tablero,botones,fichas ...)
+  * logica del juego: poner ficha, comprobar si gana, nuevo turno ...
+  * logica restante: botones, reinicio, cuando gana ...
 
