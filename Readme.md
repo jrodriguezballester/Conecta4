@@ -40,3 +40,9 @@ Requisitos:
 * Dibujado el tablero
 * creada la clase casilla 
 * creadas las casillas del tablero para la logica
+
+### Commit Primeros pasos juego
+
+* Creado de botones para echar fichas
+* Comprobando si puede jugar ese movimiento
+* Pintando la ficha 
