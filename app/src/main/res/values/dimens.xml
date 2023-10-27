@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="image_dimension">55dp</dimen>
+    <dimen name="image_dimensionL">55dp</dimen>
+    <dimen name="image_dimensionM">47dp</dimen>
+    <dimen name="image_dimensionS">39dp</dimen>
 </resources>
